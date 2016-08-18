@@ -1,0 +1,114 @@
+Source,target,Freq
+United States,"""N. E. Africa""",5
+United States,Andaman Islands,1
+United States,Angola,8
+United States,Argentina,68
+United States,Australia,43
+United States,Austria (Ã–sterreich),5
+United States,Bahamas,6
+United States,Barbados,3
+United States,Belize,2
+United States,Bermuda,5
+United States,Bolivia,86
+United States,Bonaire,1
+United States,Bonin Islands [=Ogasawara Islands],1
+United States,Borneo,13
+United States,Botswana,1
+United States,Brazil (Brasil),352
+United States,British West Indies,1
+United States,Brunei,4
+United States,Cambodia,1
+United States,Cameroon,1
+United States,Cameroon [=Kamerun?],22
+United States,Canada,249
+United States,Caroline Islands,1
+United States,Central African Republic,1
+United States,Chile,8
+United States,China,16
+United States,Colombia,204
+United States,Comoro Islands,2
+United States,Congo,17
+United States,Costa Rica,271
+United States,Croatia,1
+United States,Cuba,279
+United States,CuraÃ§ao,1
+United States,Dominica,1
+United States,Dominican Republic (San Domingo),28
+United States,Ecuador,97
+United States,Egypt,4
+United States,Ethiopia,2
+United States,Fiji Islands,3
+United States,French Guiana,67
+United States,Gabon,5
+United States,Galapagos Islands,13
+United States,Germany (Deutschland),4
+United States,Ghana,1
+United States,Greenland,14
+United States,Guatemala,20
+United States,Guiana (British Guiana),48
+United States,Guyana (Dutch Guiana),12
+United States,Haiti (Hayti),18
+United States,Honduras,20
+United States,India (Bharat),83
+United States,Indonesia,10
+United States,Jamaica,52
+United States,Japan (Nippon),8
+United States,Java,10
+United States,Kenya,26
+United States,Korea (South),3
+United States,Laos,1
+United States,Liberia,3
+United States,Madagascar,75
+United States,Malawi,13
+United States,Malaysia,39
+United States,Mali,1
+United States,Marquesas Islands,2
+United States,Martinique,1
+United States,Mexico,868
+United States,Moluccas,18
+United States,Morocco,2
+United States,Mozambique,3
+United States,Myanmar [=Burma],18
+United States,Namibia,1
+United States,New Caledonia,27
+United States,New Guinea,22
+United States,New Hebrides,1
+United States,New Zealand,2
+United States,Nicaragua,19
+United States,Nigeria,3
+United States,North America,1
+United States,Northeast Africa,2
+United States,Orphaned Types,1
+United States,Palau [=Belau],1
+United States,Panama,82
+United States,Paraguay,34
+United States,Peru,127
+United States,Philippines,121
+United States,Puerto Rico,14
+United States,Senegal,1
+United States,Sierra Leone,2
+United States,Singapore,13
+United States,Somalia,4
+United States,South Africa,42
+United States,Sri Lanka (Ceylon),23
+United States,Sudan,1
+United States,Sumatra,30
+United States,Surinam,8
+United States,Switzerland (Suisse),1
+United States,Syria,1
+United States,Taiwan (Formosa),11
+United States,Tanzania,25
+United States,Thailand [=Siam],6
+United States,Tibet,1
+United States,Tipula,8
+United States,Trinidad,19
+United States,Turkey,1
+United States,Uganda,2
+United States,United States,5786
+United States,Uruguay,1
+United States,USA,1
+United States,Venezuela,28
+United States,Vietnam,14
+United States,West Indies,1
+United States,Zambia,2
+United States,Zimbabwe,1
